@@ -9,7 +9,7 @@ An employee directory built with React. The UI is broken into three main compone
 
 Other techniques used include the map method, to render the list of random users, ternary operators in several of the sort methods, as well as the use of template literals to remove special characters from user phone numbers. The most challenging aspect was to 're-render' users once the list had been filtered via the search field. 
 
-**[Manage Employees Here!]()**
+**[Manage Employees Here!](https://raseward14.github.io/employee_directory2/)**
 
 ## Table of Contents
 * [Usage](#usage)
