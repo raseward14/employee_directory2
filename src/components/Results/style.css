@@ -1,0 +1,25 @@
+th .pointer :hover {
+  cursor: pointer;
+  color: greenyellow;
+  transition: color 0.5s;
+  visibility: visible;
+}
+
+table tbody {
+  border: grey solid 2px;
+
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+}
+
+table {
+  background-color: #c6c9c4;
+  min-height: 70vh;
+}
+
+.table-row {
+  border-top: solid grey 2px;
+  height: 100px;
+}

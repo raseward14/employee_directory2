@@ -1,0 +1,44 @@
+form {
+  align-content: center;
+  background-color: #120513;
+  color: white;
+  min-height: 30vh;
+}
+
+form {
+  border: grey solid 2px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+form div div .icon :hover {
+  cursor: pointer;
+  color: greenyellow;
+  transition: color 0.5s;
+  visibility: visible;
+}
+
+.inputContainer {
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 10px;
+  margin: auto;
+  text-align: center;
+}
+.icon {
+  color: white;
+  min-width: 50px;
+  min-height: 30px;
+  text-align: center;
+}
+.Field:focus {
+  border: 2px solid dodgerblue;
+}
+
+.monospace {
+  font-family: monospace;
+}
